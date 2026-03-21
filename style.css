@@ -65,10 +65,9 @@
         }
 
         .chorão_com_fans{
-            content: 15px;
-            padding: 9px;
-            width: 475px;
             display: flex;
+            width: 475px;
+            
         }
         .h2_fotos{
             font-size: 1.8em;
