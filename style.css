@@ -35,18 +35,19 @@
         }
         .bio, .musicas, .sucessos, .legado, .fotos
         {
-            margin: 20px;
+            margin: 30px auto;
             background-color: #ffffff;
-            padding: 20px;
-            border-radius: 5px;
-            text-align: justify;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgb(0, 0, 0, 0.3);
+            max-width: 900px;
         }
         .p {
             font-size: 20px;
             margin-bottom: 15px;
         }
         .lista-sucessos {
-            padding-left: 10;
+            padding-left: 10px;
         }
         .sucesso-item {
             margin: 2px;
