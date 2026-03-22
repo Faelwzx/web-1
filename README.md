@@ -20,4 +20,4 @@ Opção 1: Download direto
 Clique em Code → Download ZIP
 Extraia os arquivos no seu computador
 
-Opção 2: https://faelwzx.github.io/repositorio-web-I/
+Opção 2: https://faelwzx.github.io/web-1/
